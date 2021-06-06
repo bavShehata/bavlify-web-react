@@ -547,7 +547,7 @@ footer {
   flex-shrink: 0;
   padding: 2rem;
 }
-@font-face {
+/* @font-face {
   font-family: "icomoon";
   src: url(./assets/icons/icomoon.eot);
   src: url(./assets/icons/icomoon.eot) format("embedded-opentype"),
@@ -595,4 +595,4 @@ footer {
 }
 .icon-check-circle-o:before {
   content: "\e900";
-}
+} */
