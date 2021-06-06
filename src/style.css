@@ -385,11 +385,11 @@ main {
   align-items: center;
   flex-direction: column;
 }
-#aboutMe a {
-  order: 0;
+#aboutMe a{
+  order:0;
 }
-#aboutMe p {
-  order: 1;
+#aboutMe p{
+ order: 1;
 }
 @media (min-width: 800px) {
   #about img {
@@ -399,11 +399,11 @@ main {
   #aboutMe {
     flex-direction: row;
   }
-  #aboutMe a {
-    order: 1;
+  #aboutMe a{
+    order:1;
   }
-  #aboutMe p {
-    order: 0;
+  #aboutMe p{
+   order: 0;
   }
 }
 .lets {
