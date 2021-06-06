@@ -1,0 +1,102 @@
+/*Global*/
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 0;
+  font-family: Lato, sans-serif;
+  font-size: 62.5%;
+  background-color: transparent;
+  text-align: center;
+}
+h1 {
+  font-size: 2.7em;
+  background-color: #595959;
+  display: inline;
+  letter-spacing: 7;
+  font-weight: 400;
+  color: white;
+}
+p {
+  font-size: 1.6em;
+  line-height: 1.6;
+  padding: 1em;
+}
+/*Imgs*/
+div {
+  position: relative;
+  width: 100%;
+  opacity: 0.7;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.img1 {
+  background-image: url("../image1.jpg");
+  height: 100vh;
+}
+.img2 {
+  background-image: url("../image2.jpg");
+  height: 60vh;
+}
+.img3 {
+  background-image: url("../image3.jpg");
+  height: 50vh;
+}
+/*Header*/
+header,
+#last {
+  position: relative;
+  height: 100vh;
+}
+header ul {
+  color: #595959;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  display: flex;
+  list-style: none;
+  font-size: clamp(3rem, 10vw, 4rem);
+}
+section p {
+  transition: all 1s;
+}
+section div,
+section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  flex-direction: column;
+}
+#last h1 {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  left: 50%;
+}
+/*One*/
+#one {
+  min-height: 50vh;
+  width: 100%;
+  background-color: #f4f4f4;
+  color: #666666;
+}
+/*Imgtwotext*/
+#imgtwotext,
+#imgthreetext {
+  min-height: 60vh;
+}
+/*Two & Three*/
+#two,
+#three {
+  color: #dddddd;
+  background-color: #282e34;
+}
+/*Last*/
+#Last {
+  height: 100vh;
+}

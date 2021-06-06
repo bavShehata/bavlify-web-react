@@ -1,0 +1,67 @@
+{
+  "portfolios": [
+    {
+      "id": 1,
+      "title": "iTunes Clone",
+      "desktopURL": "\\portfolio\\iTunesClone\\desktopTunes.jpg",
+      "mobileURL": "\\portfolio\\iTunesClone\\mobileTunes.jpg",
+      "websiteURL": "\\portfolio\\iTunesClone\\index.html",
+      "videoURLwebm": "\\portfolio\\iTunesClone\\mtunes.webm",
+      "videoURLmp4": "\\portfolio\\iTunesClone\\mtunes.mp4"
+    },
+    {
+      "id": 2,
+      "title": "Parallax Website",
+      "desktopURL": "\\portfolio\\parallaxWebsite\\desktopParallax.jpg",
+      "mobileURL": "\\portfolio\\parallaxWebsite\\mobileParallax.jpg",
+      "websiteURL": "\\portfolio\\parallaxWebsite\\index.html",
+      "videoURLwebm": "\\portfolio\\parallaxWebsite\\mparallax.webm",
+      "videoURLmp4": "\\portfolio\\parallaxWebsite\\mparallax.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Photography Site",
+      "desktopURL": "\\portfolio\\photographySite\\desktopPhotography.jpg",
+      "mobileURL": "\\portfolio\\photographySite\\mobilePhotography.jpg",
+      "websiteURL": "\\portfolio\\photographySite\\index.html",
+      "videoURLwebm": "\\portfolio\\photographySite\\mphoto.webm",
+      "videoURLmp4": "\\portfolio\\photographySite\\mphoto.mp4"
+    },
+    {
+      "id": 4,
+      "title": "Pluralsight Clone",
+      "desktopURL": "\\portfolio\\pluralsightClone\\desktopPlural.jpg",
+      "mobileURL": "\\portfolio\\pluralsightClone\\mobilePlural.jpg",
+      "websiteURL": "\\portfolio\\pluralsightClone\\index.html",
+      "videoURLwebm": "\\portfolio\\pluralsightClone\\dplural.webm",
+      "videoURLmp4": "\\portfolio\\pluralsightClone\\dplural.mp4"
+    },
+    {
+      "id": 5,
+      "title": "ACME Clone",
+      "desktopURL": "\\portfolio\\responsiveGridWebsite\\desktopAcme.jpg",
+      "mobileURL": "\\portfolio\\responsiveGridWebsite\\mobileAcme.jpg",
+      "websiteURL": "\\portfolio\\responsiveGridWebsite\\index.html",
+      "videoURLwebm": "\\portfolio\\responsiveGridWebsite\\dacme.webm",
+      "videoURLmp4": "\\portfolio\\responsiveGridWebsite\\dacme.mp4"
+    },
+    {
+      "id": 6,
+      "title": "Blur Landing",
+      "desktopURL": "\\portfolio\\blurLanding\\desktopBlur.jpg",
+      "mobileURL": "\\portfolio\\blurLanding\\mobileBlur.jpg",
+      "websiteURL": "\\portfolio\\blurLanding\\index.html",
+      "videoURLwebm": "\\portfolio\\blurLanding\\dblur.webm",
+      "videoURLmp4": "\\portfolio\\blurLanding\\dblur.mp4"
+    }
+  ],
+  "contact": [
+    {
+      "id": 1,
+      "fname": "Bavly",
+      "lname": "Shehata",
+      "email": "bavshehata@gmail.com",
+      "message": "Hello there guys"
+    }
+  ]
+}

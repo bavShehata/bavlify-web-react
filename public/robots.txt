@@ -1,3 +1,9 @@
-# https://www.robotstxt.org/robotstxt.html
-User-agent: *
-Disallow:
+# Only allow accessing the main page
+user-agent: *
+disallow: /portfolio/*.jpg
+
+user-agent: *
+disallow: /portfolio/*.png
+
+user-agent: *
+disallow: /portfolio/*.jpeg
