@@ -533,7 +533,7 @@ textarea:focus {
   left: 0;
 }
 .socialMedia {
-  margin-bottom: 5rem;
+  padding-bottom: 5rem;
   font-family: "Robot", serif;
 }
 .socialMedia h3 {
@@ -544,16 +544,14 @@ textarea:focus {
   font-size: clamp(1.3rem, 1.3vw, 2.3rem);
 }
 footer {
-  flex-shrink: 0;
   padding: 2rem;
 }
-/* @font-face {
+@font-face {
   font-family: "icomoon";
-  src: url(./assets/icons/icomoon.eot);
-  src: url(./assets/icons/icomoon.eot) format("embedded-opentype"),
-    url(./assets/icons) format("truetype"),
-    url(./assets/icons/icomoon.woff) format("woff"),
-    url(./assets/icons/icomoon.svg) format("svg");
+  src: url(./icons/icomoon.eot);
+  src: url(./icons/icomoon.eot) format("embedded-opentype"),
+    url(./icons/icomoon.woff) format("woff"),
+    url(./icons/icomoon.svg) format("svg");
   font-weight: 400;
   font-style: normal;
   font-display: block;
@@ -595,4 +593,4 @@ footer {
 }
 .icon-check-circle-o:before {
   content: "\e900";
-} */
+}
